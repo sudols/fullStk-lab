@@ -62,3 +62,7 @@ Thumbs.db
 .npm/
 .eslintcache
 
+.codespaces/
+**/.env-secrets
+**/*secrets*.json
+
