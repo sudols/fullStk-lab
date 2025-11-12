@@ -65,4 +65,5 @@ Thumbs.db
 .codespaces/
 **/.env-secrets
 **/*secrets*.json
+.oryx/
 
